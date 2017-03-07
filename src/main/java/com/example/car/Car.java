@@ -58,6 +58,7 @@ public Date getCheckin() {
 public void setCheckin(Date checkin) {
 	this.checkin = checkin;
 }
+
 public Integer getId() {
 	return id;
 }
