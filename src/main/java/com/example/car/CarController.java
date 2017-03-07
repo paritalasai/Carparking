@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 import com.example.model.Car;
 import com.example.model.ParkingDetails;
-
 import io.swagger.annotations.Api;
 
 @RestController
