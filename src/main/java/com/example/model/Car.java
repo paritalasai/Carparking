@@ -16,6 +16,7 @@ public class Car {
 	{
 		
 	}	
+	
 	@Id
 	@GeneratedValue
 private Integer id;
