@@ -29,6 +29,7 @@ private String cartype;
 public Date getCheckout() {
 	return checkout;
 }
+
 public void setCheckout(Date checkout) {
 	this.checkout = checkout;
 }
