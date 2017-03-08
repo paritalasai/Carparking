@@ -10,6 +10,7 @@ import javax.persistence.TemporalType;
 
 import javax.persistence.Transient;
 
+
 @Entity
 @Table(name="car")
 public class Car {
