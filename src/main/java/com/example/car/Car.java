@@ -11,6 +11,7 @@ import javax.persistence.Transient;
 @Entity
 @Table(name="car")
 public class Car {
+
 	private static final long serialVersionUID = 1L;
 	public Car()
 	{
